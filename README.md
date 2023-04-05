@@ -1,6 +1,6 @@
 # pseudonymise
 
-##Installation:
+## Usage
 
 ```sh
 cd pseudonymise-master
